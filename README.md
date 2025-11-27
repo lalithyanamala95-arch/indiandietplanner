@@ -1,6 +1,6 @@
 🇮🇳 Indian Diet Planner
 
-A fully client-side, intelligent Indian meal planner that generates personalized diet plans based on BMI, BMR, calorie targets, activity level, dietary preference, and budget — using real Indian foods (veg / non-veg), no AI-generated dishes.
+A fully client-side, intelligent Indian meal planner that generates personalized diet plans based on BMI, BMR, calorie targets, activity level, dietary preference, and budget — using real Indian foods (veg / non-veg).
 
 Live: https://indiandietplanner.vercel.app/
 
