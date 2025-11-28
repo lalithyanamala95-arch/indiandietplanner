@@ -29,7 +29,7 @@ The app uses a nutrition database of real Indian foods (breakfast, lunch, dinner
 🏗️ How the Website Is Built (Architecture)
 1. Frontend Framework
 
-React 18
+React/js
 
 TypeScript (strict typing for safety)
 
